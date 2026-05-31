@@ -1,0 +1,94 @@
+name,description,url,category,logo_url,is_verified,is_pwa
+Telegram,Messagerie sécurisée ultra-rapide.,https://web.telegram.org,Communication,https://www.google.com/s2/favicons?domain=telegram.org&sz=128,TRUE,TRUE
+Spotify,Streaming musical et podcasts.,https://open.spotify.com,Musique,https://www.google.com/s2/favicons?domain=spotify.com&sz=128,TRUE,TRUE
+Photopea,Éditeur photo complet.,https://photopea.com,Création,https://www.google.com/s2/favicons?domain=photopea.com&sz=128,TRUE,TRUE
+Standard Notes,Notes chiffrées et privées.,https://app.standardnotes.com,Productivité,https://www.google.com/s2/favicons?domain=standardnotes.com&sz=128,TRUE,TRUE
+Squoosh,Compression d'image pro.,https://squoosh.app,Création,https://www.google.com/s2/favicons?domain=squoosh.app&sz=128,TRUE,TRUE
+Clipchamp,Éditeur vidéo en ligne.,https://app.clipchamp.com,Vidéo,https://www.google.com/s2/favicons?domain=clipchamp.com&sz=128,TRUE,TRUE
+X (Twitter),Réseau social en temps réel.,https://twitter.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=twitter.com&sz=128,TRUE,TRUE
+Google Maps,Cartes et navigation.,https://www.google.com/maps,Navigation,https://www.google.com/s2/favicons?domain=maps.google.com&sz=128,TRUE,TRUE
+YouTube Music,Streaming musical dédié.,https://music.youtube.com,Musique,https://www.google.com/s2/favicons?domain=music.youtube.com&sz=128,TRUE,TRUE
+Bitwarden,Gestionnaire de mots de passe.,https://vault.bitwarden.com,Outils,https://www.google.com/s2/favicons?domain=bitwarden.com&sz=128,TRUE,TRUE
+Todoist,Gestionnaire de tâches quotidien.,https://todoist.com,Productivité,https://www.google.com/s2/favicons?domain=todoist.com&sz=128,TRUE,TRUE
+Notion,Espace de travail tout-en-un.,https://notion.so,Productivité,https://www.google.com/s2/favicons?domain=notion.so&sz=128,TRUE,TRUE
+Canva,Design graphique et visuels.,https://canva.com,Création,https://www.google.com/s2/favicons?domain=canva.com&sz=128,TRUE,TRUE
+Discord,Chat communautaire.,https://discord.com,Communication,https://www.google.com/s2/favicons?domain=discord.com&sz=128,TRUE,TRUE
+Tinder,Rencontres en ligne.,https://tinder.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=tinder.com&sz=128,TRUE,TRUE
+Flipboard,Actualités personnalisées.,https://flipboard.com,Médias,https://www.google.com/s2/favicons?domain=flipboard.com&sz=128,TRUE,TRUE
+Ecosia,Recherche web écologique.,https://ecosia.org,Outils,https://www.google.com/s2/favicons?domain=ecosia.org&sz=128,TRUE,TRUE
+VS Code Web,Éditeur de code complet.,https://vscode.dev,Développement,https://www.google.com/s2/favicons?domain=vscode.dev&sz=128,TRUE,TRUE
+Windy,Météo interactive.,https://windy.com,Météo,https://www.google.com/s2/favicons?domain=windy.com&sz=128,TRUE,TRUE
+Trello,Gestion de projets visuelle.,https://trello.com,Productivité,https://www.google.com/s2/favicons?domain=trello.com&sz=128,TRUE,TRUE
+GitHub,Hébergement de code.,https://github.com,Développement,https://www.google.com/s2/favicons?domain=github.com&sz=128,TRUE,TRUE
+CapCut,Montage vidéo rapide.,https://www.capcut.com,Vidéo,https://www.google.com/s2/favicons?domain=capcut.com&sz=128,TRUE,TRUE
+Booking,Hébergements mondiaux.,https://booking.com,Voyage,https://www.google.com/s2/favicons?domain=booking.com&sz=128,TRUE,TRUE
+Reddit,Forums et communautés.,https://reddit.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=reddit.com&sz=128,TRUE,TRUE
+Wikipedia,Encyclopédie universelle.,https://fr.wikipedia.org,Référence,https://www.google.com/s2/favicons?domain=wikipedia.org&sz=128,TRUE,TRUE
+Google Drive,Stockage Cloud.,https://drive.google.com,Outils,https://www.google.com/s2/favicons?domain=drive.google.com&sz=128,TRUE,TRUE
+Pinterest,Idées créatives.,https://pinterest.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=pinterest.com&sz=128,TRUE,TRUE
+Messenger,Messagerie instantanée.,https://messenger.com,Communication,https://www.google.com/s2/favicons?domain=messenger.com&sz=128,TRUE,TRUE
+Slack,Communication d'équipe.,https://slack.com,Communication,https://www.google.com/s2/favicons?domain=slack.com&sz=128,TRUE,TRUE
+TikTok,Vidéos courtes.,https://tiktok.com,Divertissement,https://www.google.com/s2/favicons?domain=tiktok.com&sz=128,TRUE,TRUE
+
+2048,Le célèbre casse-tête numérique addictif.,https://play2048.co,Jeux,https://www.google.com/s2/favicons?domain=play2048.co&sz=128,TRUE,TRUE
+Flappy Bird,Le classique du jeu d'adresse.,https://flappybird.io,Jeux,https://www.google.com/s2/favicons?domain=flappybird.io&sz=128,TRUE,TRUE
+Chess.com,Jeu d'échecs en ligne compétitif.,https://chess.com,Jeux,https://www.google.com/s2/favicons?domain=chess.com&sz=128,TRUE,TRUE
+Solitaire,Jeu de cartes classique.,https://solitaire.com,Jeux,https://www.google.com/s2/favicons?domain=solitaire.com&sz=128,TRUE,TRUE
+Sudoku,Le défi numérique par excellence.,https://sudoku.com,Jeux,https://www.google.com/s2/favicons?domain=sudoku.com&sz=128,TRUE,TRUE
+Tetris,Version web du puzzle légendaire.,https://tetris.com,Jeux,https://www.google.com/s2/favicons?domain=tetris.com&sz=128,TRUE,TRUE
+Snake,Le jeu rétro revisité.,https://playsnake.org,Jeux,https://www.google.com/s2/favicons?domain=playsnake.org&sz=128,TRUE,TRUE
+Pac-Man,Le classique de l'arcade en PWA.,https://pacman.com,Jeux,https://www.google.com/s2/favicons?domain=pacman.com&sz=128,TRUE,TRUE
+Wordle,Jeu quotidien de devinettes de mots.,https://www.nytimes.com/games/wordle/index.html,Jeux,https://www.google.com/s2/favicons?domain=nytimes.com&sz=128,TRUE,TRUE
+Crossy Road,Traversez la route sans encombre.,https://crossyroad.com,Jeux,https://www.google.com/s2/favicons?domain=crossyroad.com&sz=128,TRUE,TRUE
+Tower Bloxx,Empilez les blocs pour construire.,https://towerbloxx.com,Jeux,https://www.google.com/s2/favicons?domain=towerbloxx.com&sz=128,TRUE,TRUE
+Candy Crush Saga,La version web du célèbre jeu.,https://candycrushsaga.com,Jeux,https://www.google.com/s2/favicons?domain=candycrushsaga.com&sz=128,TRUE,TRUE
+Chrome Dino,Le jeu du dinosaure de Chrome.,https://chromedino.com,Jeux,https://www.google.com/s2/favicons?domain=chromedino.com&sz=128,TRUE,TRUE
+Uno,Jeu de cartes multijoueur.,https://play.google.com/games/uno,Jeux,https://www.google.com/s2/favicons?domain=google.com&sz=128,TRUE,TRUE
+Bubble Shooter,Visez et éclatez les bulles.,https://bubbleshooter.net,Jeux,https://www.google.com/s2/favicons?domain=bubbleshooter.net&sz=128,TRUE,TRUE
+Hextris,Puzzle hexagonal rapide.,https://hextris.io,Jeux,https://www.google.com/s2/favicons?domain=hextris.io&sz=128,TRUE,TRUE
+Agar.io,Jeu d'action multijoueur massive.,https://agar.io,Jeux,https://www.google.com/s2/favicons?domain=agar.io&sz=128,TRUE,TRUE
+Slither.io,Le jeu du serpent multijoueur.,https://slither.io,Jeux,https://www.google.com/s2/favicons?domain=slither.io&sz=128,TRUE,TRUE
+Pinball,Jeu de flipper classique.,https://pinball-online.com,Jeux,https://www.google.com/s2/favicons?domain=pinball-online.com&sz=128,TRUE,TRUE
+Jigsaw Puzzles,Puzzles interactifs.,https://jigsawpuzzles.io,Jeux,https://www.google.com/s2/favicons?domain=jigsawpuzzles.io&sz=128,TRUE,TRUE
+
+X (Twitter),Réseau social en temps réel.,https://twitter.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=twitter.com&sz=128,TRUE,TRUE
+Instagram,Partage de photos et vidéos.,https://www.instagram.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=instagram.com&sz=128,TRUE,TRUE
+Pinterest,Découverte d'idées visuelles.,https://pinterest.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=pinterest.com&sz=128,TRUE,TRUE
+Reddit,Forums et communautés par passion.,https://reddit.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=reddit.com&sz=128,TRUE,TRUE
+LinkedIn,Réseau professionnel.,https://linkedin.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=linkedin.com&sz=128,TRUE,TRUE
+Mastodon,Réseau social décentralisé.,https://joinmastodon.org,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=joinmastodon.org&sz=128,TRUE,TRUE
+Threads,Conversations basées sur le texte.,https://threads.net,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=threads.net&sz=128,TRUE,TRUE
+Tumblr,Microblogging et partage multimédia.,https://tumblr.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=tumblr.com&sz=128,TRUE,TRUE
+Discord,Communication par serveurs.,https://discord.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=discord.com&sz=128,TRUE,TRUE
+Snapchat Web,Messagerie éphémère.,https://web.snapchat.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=snapchat.com&sz=128,TRUE,TRUE
+TikTok,Vidéos courtes et créatives.,https://tiktok.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=tiktok.com&sz=128,TRUE,TRUE
+BeReal,Partage de photos authentiques.,https://bere.al,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=bere.al&sz=128,TRUE,TRUE
+Twitch,Communauté de streaming gaming.,https://m.twitch.tv,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=twitch.tv&sz=128,TRUE,TRUE
+Flipboard,Magazine social personnalisé.,https://flipboard.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=flipboard.com&sz=128,TRUE,TRUE
+Bluesky,Réseau social ouvert et décentralisé.,https://bsky.app,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=bsky.app&sz=128,TRUE,TRUE
+Quora,Partage de connaissances.,https://quora.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=quora.com&sz=128,TRUE,TRUE
+Medium,Réseau de blogging et articles.,https://medium.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=medium.com&sz=128,TRUE,TRUE
+Clubhouse,Réseau social audio.,https://clubhouse.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=clubhouse.com&sz=128,TRUE,TRUE
+Line,Messagerie et réseau social.,https://line.me,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=line.me&sz=128,TRUE,TRUE
+VK,Réseau social international.,https://vk.com,Réseaux Sociaux,https://www.google.com/s2/favicons?domain=vk.com&sz=128,TRUE,TRUE
+
+YouTube,La plateforme vidéo numéro 1.,https://m.youtube.com,Vidéo,https://www.google.com/s2/favicons?domain=youtube.com&sz=128,TRUE,TRUE
+Netflix,Films et séries en streaming.,https://www.netflix.com,Vidéo,https://www.google.com/s2/favicons?domain=netflix.com&sz=128,TRUE,TRUE
+Twitch,Streaming vidéo en direct (gaming).,https://m.twitch.tv,Vidéo,https://www.google.com/s2/favicons?domain=twitch.tv&sz=128,TRUE,TRUE
+TikTok,Vidéos courtes virales.,https://tiktok.com,Vidéo,https://www.google.com/s2/favicons?domain=tiktok.com&sz=128,TRUE,TRUE
+CapCut,Montage vidéo en ligne.,https://www.capcut.com,Vidéo,https://www.google.com/s2/favicons?domain=capcut.com&sz=128,TRUE,TRUE
+Clipchamp,Éditeur vidéo professionnel.,https://app.clipchamp.com,Vidéo,https://www.google.com/s2/favicons?domain=clipchamp.com&sz=128,TRUE,TRUE
+Dailymotion,Plateforme de partage vidéo.,https://dailymotion.com,Vidéo,https://www.google.com/s2/favicons?domain=dailymotion.com&sz=128,TRUE,TRUE
+Vimeo,Vidéo haute définition.,https://vimeo.com,Vidéo,https://www.google.com/s2/favicons?domain=vimeo.com&sz=128,TRUE,TRUE
+Pluto TV,Télévision en streaming gratuit.,https://pluto.tv,Vidéo,https://www.google.com/s2/favicons?domain=pluto.tv&sz=128,TRUE,TRUE
+TED,Conférences inspirantes en vidéo.,https://ted.com,Vidéo,https://www.google.com/s2/favicons?domain=ted.com&sz=128,TRUE,TRUE
+Plex,Streaming de vos contenus locaux.,https://plex.tv,Vidéo,https://www.google.com/s2/favicons?domain=plex.tv&sz=128,TRUE,TRUE
+Disney+,Séries et films streaming.,https://disneyplus.com,Vidéo,https://www.google.com/s2/favicons?domain=disneyplus.com&sz=128,TRUE,TRUE
+Crunchyroll,Animes et mangas en streaming.,https://crunchyroll.com,Vidéo,https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=128,TRUE,TRUE
+Paramount+,Streaming de divertissement.,https://paramountplus.com,Vidéo,https://www.google.com/s2/favicons?domain=paramountplus.com&sz=128,TRUE,TRUE
+Prime Video,Streaming de films Amazon.,https://primevideo.com,Vidéo,https://www.google.com/s2/favicons?domain=primevideo.com&sz=128,TRUE,TRUE
+Peertube,Alternative vidéo décentralisée.,https://joinpeertube.org,Vidéo,https://www.google.com/s2/favicons?domain=joinpeertube.org&sz=128,TRUE,TRUE
+JW Player,Lecteur vidéo optimisé.,https://jwplayer.com,Vidéo,https://www.google.com/s2/favicons?domain=jwplayer.com&sz=128,TRUE,TRUE
+Bilibili,Plateforme vidéo communautaire.,https://bilibili.com,Vidéo,https://www.google.com/s2/favicons?domain=bilibili.com&sz=128,TRUE,TRUE
+Kaltura,Plateforme vidéo entreprise.,https://kaltura.com,Vidéo,https://www.google.com/s2/favicons?domain=kaltura.com&sz=128,TRUE,TRUE
+Streamable,Partage de clips vidéo rapide.,https://streamable.com,Vidéo,https://www.google.com/s2/favicons?domain=streamable.com&sz=128,TRUE,TRUE
