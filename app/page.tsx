@@ -4,6 +4,7 @@ import { supabase } from '../utils/supabase'
 import { Gamepad2, Briefcase, MessageSquare, Play, Globe, LayoutGrid, Info, MousePointer2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion'
 import Link from 'next/link';
+import React from 'react';
 
 export default function Home() {
   const [apps, setApps] = useState<any[]>([])
@@ -43,16 +44,16 @@ async function fetchData(pageIndex: number) {
 
   const categories = ['Tous', ...Array.from(new Set(apps.map(a => a.category)))]
 
-  const getIcon = (cat: string) => {
-    const icons: { [key: string]: JSX.Element } = {
-      'Tous': <LayoutGrid size={16} />,
-      'Jeux': <Gamepad2 size={16} />,
-      'Communication': <MessageSquare size={16} />,
-      'Productivité': <Briefcase size={16} />,
-      'Divertissement': <Play size={16} />,
-    }
-    return icons[cat] || <Globe size={16} />
+  const getIcon = (cat: string): React.ReactNode => { // Utilisation de ReactNode
+  const icons: { [key: string]: React.ReactNode } = {
+    'Tous': <LayoutGrid size={16} />,
+    'Jeux': <Gamepad2 size={16} />,
+    'Communication': <MessageSquare size={16} />,
+    'Productivité': <Briefcase size={16} />,
+    'Divertissement': <Play size={16} />,
   }
+  return icons[cat] || <Globe size={16} />
+}
 
   // Filtrage optimisé avec deferredSearch
   const filteredApps = apps.filter(app => 
